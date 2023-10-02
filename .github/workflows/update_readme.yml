@@ -1,4 +1,4 @@
-name: Update README
+  name: Update README
 
 on:
   push:
@@ -12,6 +12,11 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
     - name: Update README
       run: python .github/scripts/update_readme.py

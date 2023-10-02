@@ -3,6 +3,10 @@
 
 This repository is designed for beginners and students from West Bengal, who want to make their first open-source contribution during Hacktoberfest 2023 . By contributing to this repository, you can add your profile image and data, which will be displayed on the README page once your PR is approved.
 
+## Before everything 
+
+- 📢 **Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to qualify.**
+
 ## How to Contribute:
 
  - **Fork this Repository**: Click on the 'Fork' button at the top right corner of this repository. This will create a copy of this repository in your account.

@@ -1,8 +1,8 @@
     `---
     name: 'Rahul Baskey'
     image: 'rahulbaskey.jpg'
-    location: 'Sector 3, Salt Lake, Kolkata' 
-    bio: 'I'm an Aspiring Full Stack Developer. A dedicated and passionate engineer.'
+    location: 'Salt Lake, Kolkata' 
+    bio: 'Passionate developer and Moderator.'
     institution: ' Sister Nivedita University '
     organisation: ' your company name'
     ---`

@@ -1,0 +1,5 @@
+name: 'Sajid Shahriar'
+image: 'sajidshahriar72543.png'
+location: 'Rajshahi, Bangladesh' 
+bio: 'Come and meet me in the sky?'
+institution: 'Rajshahi University of Engineering & Technology, Rajshahi, Bangladesh'

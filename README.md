@@ -19,7 +19,7 @@ This repository is designed for beginners and students from West Bengal, who wan
  -  **Add your Profile Image**:
     
     -   Navigate to `static/images/`.
-    -   Add your profile image (preferably a `.jpg` or `.png` file).
+    -   Add your profile image .Accepted files are png and jpg, should be Square and minimum size 544x544 pixels.
     -   You can either drag and drop your image into this folder or use the following command:
         
     ``` cp /path-to-your-image.jpg static/images/` 

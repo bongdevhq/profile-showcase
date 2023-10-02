@@ -1,0 +1,17 @@
+name: Update README
+
+on:
+  push:
+    paths:
+      - 'content/profiles/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Update README
+      run: python .github/scripts/update_readme.py

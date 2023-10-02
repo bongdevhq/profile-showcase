@@ -13,7 +13,7 @@ This repository is designed for beginners and students from West Bengal, who wan
 
  - **Clone the Repository**: Now, clone the forked repository to your machine. You can do this using the following command:
    ```
-   git clone https://github.com/<your-github-username>/profile-showcase.git` 
+   git clone https://github.com/bongdevhq/profile-showcase.git` 
 
  -  **Navigate to the Repository**: Change your directory to the cloned repository:
     

@@ -15,16 +15,17 @@ for filename in os.listdir(profiles_dir):
             profiles.append((name, image, bio))
 
 with open(readme_path, 'r') as f:
-    readme_content = f.readlines()
+    readme_content = f.read()
 
-start_index = readme_content.index("## Contributors:\n")
-end_index = readme_content.index("## Happy Hacking! 🚀\n")
+start_placeholder = "## Contributors:\n"
+end_placeholder = "## Happy Hacking! 🚀\n"
 
-del readme_content[start_index + 1:end_index]
-
+profile_strings = []
 for name, image, bio in profiles:
     profile_md = f"![{name}](static/images/{image})\n\n**{name}**\n\n{bio}\n\n---\n\n"
-    readme_content.insert(start_index + 1, profile_md)
+    profile_strings.append(profile_md)
+
+new_content = readme_content.split(start_placeholder)[0] + start_placeholder + "\n".join(profile_strings) + end_placeholder + readme_content.split(end_placeholder)[1]
 
 with open(readme_path, 'w') as f:
-    f.writelines(readme_content)
+    f.write(new_content)

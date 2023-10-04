@@ -1,4 +1,5 @@
-## Welcome to the Profile Showcase Repository! 
+## Welcome to the Profile Showcase Repository! <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/bongdevhq/profile-showcase?style=social&logo=github&logoColor=orange">
+
 🎉
 
 This repository is designed for beginners and students from West Bengal, who want to make their first open-source contribution during Hacktoberfest 2023 . By contributing to this repository, you can add your profile image and data, which will be displayed on the README page once your PR is approved.
@@ -79,10 +80,9 @@ This repository is designed for beginners and students from West Bengal, who wan
 
 <div align="center">
 
-<a href="https://github.com/bongdevhq/profile-showcase/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=bongdevhq/profile-showcase" />
-</a>
-  
+
+
+
   </div>
 
 

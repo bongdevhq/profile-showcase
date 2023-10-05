@@ -30,8 +30,8 @@ for name, image, bio in profiles:
     profile_md = f"![{name}](static/images/{image})\n\n**{name}**\n\n{bio}\n\n---\n\n"
     profile_strings.append(profile_md)
 
-new_content = readme_content.split(start_placeholder)[0] + start_placeholder + "\n".join(profile_strings) + end_placeholder + readme_content.split(end_placeholder)[1]
+new_content = readme_content.split(start_placeholder)[0] + start_placeholder + "\n".join(profile_strings) + end_placeholder
 
-with open(readme_path, 'w') as f:
+with open(readme_path, 'w', encoding="utf-8") as f:
     f.write(new_content)
 

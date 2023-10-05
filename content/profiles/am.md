@@ -1,6 +1,6 @@
 alokemajumder.JPG
 
-    name: 'AM'
+    name: 'Aloke'
     image: 'alokemajumder.JPG'
     location: 'Howrah' 
     bio: 'Mentor at bong.dev'

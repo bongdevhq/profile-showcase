@@ -1,17 +1,20 @@
-  name: Update README
+name: Update README
 
 on:
-  push:
+  pull_request:
+    types: [closed]
     paths:
       - 'content/profiles/**'
+      - 'static/images/**'
 
 jobs:
   build:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
 
     - name: Set up Python
       uses: actions/setup-python@v2

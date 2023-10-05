@@ -2,7 +2,6 @@ import os
 
 profiles_dir = "content/profiles"
 readme_path = "README.md"
-
 profiles = []
 
 for filename in os.listdir(profiles_dir):
@@ -19,8 +18,8 @@ with open(readme_path, 'r') as f:
 
 start_placeholder = "## Contributors:\n"
 end_placeholder = "## Happy Hacking! 🚀\n"
-
 profile_strings = []
+
 for name, image, bio in profiles:
     profile_md = f"![{name}](static/images/{image})\n\n**{name}**\n\n{bio}\n\n---\n\n"
     profile_strings.append(profile_md)

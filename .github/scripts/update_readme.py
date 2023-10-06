@@ -21,9 +21,8 @@ for filename in os.listdir(profiles_dir):
                 
                 # Resizing the image to smaller version
                 im = Image.open(f"static/images/{image}")
-                max_size = (250, 250)
-                resized_im = im.resize(max_size)
-                resized_im.save(f"static/images/{image}")
+                im.thumbnail((250,250), Image.ANTIALIAS)
+                im.save(f"static/images/{image}","JPEG")
                 
                 bio = lines[4].split(":")[1].strip().replace("'", "")
                 profiles.append((name, image, bio))

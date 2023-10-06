@@ -20,11 +20,11 @@ jobs:
       uses: actions/setup-python@v4.7.1
       with:
         python-version: '3.x'
-    - name: Install pip
-      run: python3 -m pip install --upgrade pip setuptools wheel
+    - name: Install pip3
+      run: python3 -m pip3 install --upgrade pip setuptools wheel
       
     - name: Install dependencies
-      run: python3 -m pip install Pillow
+      run: python3 -m pip3 install Pillow
 
     - name: Update README
       run: python3 .github/scripts/update_readme.py

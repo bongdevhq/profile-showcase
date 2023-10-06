@@ -74,14 +74,6 @@ This repository is designed for beginners and students from West Bengal, who wan
 -   Please ensure your profile image and data are appropriate. Inappropriate content will not be merged.
 
 ## Contributors:
-![sarthakroy2002.jpg](static/images/Sodepur, Kolkata, West Bengal)
-
-**sarthakroy2002.jpg**
-
-A 21-year Tech Enthusiast from Kolkata, India, Currently living in Chennai, India
-
----
-
 
 ![Sayak Mukherjee](static/images/Sayak.jpeg)
 
@@ -97,24 +89,6 @@ Kolkata , West Bengal
 **Jagpreet Singh Khurana**
 
 Mirzapur , Uttar Pradesh
-
----
-
-
-![sajidshahriar72543.png](static/images/Rajshahi, Bangladesh)
-
-**sajidshahriar72543.png**
-
-Come and meet me in the sky?
-
----
-
-
-![mizdrake7.jpg](static/images/New Town, Kolkata, West Bengal)
-
-**mizdrake7.jpg**
-
-A 21-year Tech Enthusiast from Kolkata, India, Currently living in Ujjain, India
 
 ---
 

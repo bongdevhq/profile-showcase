@@ -20,6 +20,9 @@ jobs:
       uses: actions/setup-python@v4.7.1
       with:
         python-version: '3.x'
+    - name: Install PIP
+      run: python -m pip install --upgrade pip setuptools wheel
+      
     - name: Install dependencies
       run: python -m pip install Pillow
 

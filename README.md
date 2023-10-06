@@ -79,7 +79,7 @@ This repository is designed for beginners and students from West Bengal, who wan
 
 **Sayak Mukherjee**
 
-Kolkata , West Bengal
+Engineering Student and a passionate devloper
 
 ---
 
@@ -88,7 +88,16 @@ Kolkata , West Bengal
 
 **Jagpreet Singh Khurana**
 
-Mirzapur , Uttar Pradesh
+Engineering Student and a passionate devloper
+
+---
+
+
+![Chiraag Banerjee](static/images/chiraagbanerjee.jpg)
+
+**Chiraag Banerjee**
+
+Passionate Python Developer and Analyst
 
 ---
 
@@ -97,7 +106,7 @@ Mirzapur , Uttar Pradesh
 
 **Rahul Baskey**
 
-Salt Lake, Kolkata
+Passionate Developer and Community Moderator.
 
 ---
 

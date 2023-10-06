@@ -75,16 +75,30 @@ This repository is designed for beginners and students from West Bengal, who wan
 
 ## Contributors:
 
-<!-- Profiles will be added here by the GitHub Action -->
+![Sayak Mukherjee](static/images/Sayak.jpeg)
+
+**Sayak Mukherjee**
+
+Kolkata , West Bengal
+
+---
 
 
-<div align="center">
+![Jagpreet Singh Khurana](static/images/jskhurana.png)
+
+**Jagpreet Singh Khurana**
+
+Mirzapur , Uttar Pradesh
+
+---
 
 
+![Rahul Baskey](static/images/rahulbaskey.jpg)
 
+**Rahul Baskey**
 
-  </div>
+Salt Lake, Kolkata
 
-
+---
 
 ## Happy Hacking! 🚀

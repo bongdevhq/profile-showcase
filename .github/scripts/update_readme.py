@@ -11,6 +11,9 @@ for filename in os.listdir(profiles_dir):
             if len(lines) < 4:  # Check if the file has at least 4 lines
                 print(f"Warning: File {filename} has fewer lines than expected. Skipping...")
                 continue
+            if len(lines[0]) > 9:
+                print(f"Warning: File {filename} doesn't match the expected format. Skipping...")
+                continue
             try:
                 name = lines[1].split(":")[1].strip().replace("'", "")
                 image = lines[2].split(":")[1].strip().replace("'", "")

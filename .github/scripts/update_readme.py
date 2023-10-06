@@ -25,7 +25,7 @@ for filename in os.listdir(profiles_dir):
 with open(readme_path, 'r') as f:
     readme_content = f.read()
 
-start_placeholder = "## Contributors:\n"
+start_placeholder = "## Contributors:\n\n"
 end_placeholder = "## Happy Hacking! 🚀\n"
 profile_strings = []
 

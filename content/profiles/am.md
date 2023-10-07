@@ -1,7 +1,7 @@
-alokemajumder.JPG
-
-    name: 'Aloke'
-    image: 'alokemajumder.JPG'
-    location: 'Howrah' 
-    bio: 'Mentor at bong.dev'
-    organisation: ' bong.dev'
+`---
+name: 'AM
+image: 'alokemajumder.JPG'
+location: 'Howrah, West Bengal' 
+bio: 'Mentor at bong.dev'
+organisation: ' bong.dev'
+---`

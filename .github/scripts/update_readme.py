@@ -12,17 +12,17 @@ for filename in os.listdir(profiles_dir):
             if len(lines) < 4:  # Check if the file has at least 4 lines
                 print(f"Warning: File {filename} has fewer lines than expected. Skipping...")
                 continue
-            if len(lines[0]) > 9: #line 0 should not contain any information it's only for markup
+            if len(lines[0]) > 9:  # line 0 should not contain any information it's only for markup
                 print(f"Warning: File {filename} doesn't match the expected format. Skipping...")
                 continue
             try:
                 name = lines[1].split(":")[1].strip().replace("'", "")
                 image = lines[2].split(":")[1].strip().replace("'", "")
                 
-                # Resizing the image to smaller version
+                # Resizing the image to a smaller version
                 im = Image.open(f"static/images/{image}")
-                im.thumbnail((250,250), Image.ANTIALIAS)
-                im.save(f"static/images/{image}","JPEG")
+                im.thumbnail((250, 250), Image.ANTIALIAS)
+                im.save(f"static/images/{image}", "JPEG")
                 
                 bio = lines[4].split(":")[1].strip().replace("'", "")
                 profiles.append((name, image, bio))

@@ -21,7 +21,7 @@ for filename in os.listdir(profiles_dir):
                 
                 # Resizing the image to a smaller version
                 im = Image.open(f"static/images/{image}")
-                im.thumbnail((250, 250), Image.ANTIALIAS)
+                im.thumbnail((250, 250))
                 im.save(f"static/images/{image}", "JPEG")
                 
                 bio = lines[4].split(":")[1].strip().replace("'", "")

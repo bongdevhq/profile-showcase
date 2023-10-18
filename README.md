@@ -73,41 +73,9 @@ This repository is designed for beginners and students from West Bengal, who wan
 -   It's designed primarily for Hacktoberfest 2023 and for beginners to make their first contribution.
 -   Please ensure your profile image and data are appropriate. Inappropriate content will not be merged.
 
-## Contributors:
-
-![Sayak Mukherjee](static/images/Sayak.jpeg)
-
-**Sayak Mukherjee**
-
-Engineering Student and a passionate devloper
-
----
-
-
-![Jagpreet Singh Khurana](static/images/jskhurana.png)
-
-**Jagpreet Singh Khurana**
-
-Engineering Student and a passionate devloper
-
----
-
-
-![Chiraag Banerjee](static/images/chiraagbanerjee.jpg)
-
-**Chiraag Banerjee**
-
-Passionate Python Developer and Analyst
-
----
-
-
-![Rahul Baskey](static/images/rahulbaskey.jpg)
-
-**Rahul Baskey**
-
-Passionate Developer and Community Moderator.
-
----
+## Our Contributors 
+<a href="https://github.com/bongdevhq/profile-showcase/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=bongdevhq/profile-showcase" />
+</a>
 
 ## Happy Hacking! 🚀

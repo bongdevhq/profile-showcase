@@ -1,0 +1,1 @@
+    ---     name: 'Raj Bhattacharyya'     image: 'RajBhattacharyya.jpg'     location: 'Kolkata, West Bengal'     bio: '"Continuously pushing the frontiers of technology and imagination.'     institution: ' UEM Kolkata '     organisation: ' N/A'     ---

@@ -42,7 +42,5 @@ jobs:
       run: |
         python .github/scripts/update_readme.py
         git add README.md static/images content
-        git config --local user.email "${PR_USER}@users.noreply.github.com"
-        git config --local user.name "$PR_USER"
         git commit -m "Update README.md"
         git push

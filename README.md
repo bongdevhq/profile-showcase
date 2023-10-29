@@ -79,3 +79,140 @@ This repository is designed for beginners and students from West Bengal, who wan
 </a>
 
 ## Happy Hacking! 🚀
+## Contributors:
+
+![Mrinmay Das](static/images/Mrinmay.jpg)
+
+**Mrinmay Das**
+
+Constantly exploring the boundaries of technology and imagination.
+
+---
+
+
+![Siddhant Sama](static/images/sidxh.png)
+
+**Siddhant Sama**
+
+a passionate software engineer trying to create a dent through technology
+
+---
+
+
+![Sayak Mukherjee](static/images/Sayak.jpeg)
+
+**Sayak Mukherjee**
+
+Engineering Student and a passionate devloper
+
+---
+
+
+![Supriyo Saha](static/images/supriyo.jpg)
+
+**Supriyo Saha**
+
+An average nerd who loves to mess around with inspect elements
+
+---
+
+
+![Ritwika Mahapatra](static/images/ritwika.jpg)
+
+**Ritwika Mahapatra**
+
+Part-time programmer, full-time procrastinator.
+
+---
+
+
+![Sajid Shahriar](static/images/sajidshahriar72543.png)
+
+**Sajid Shahriar**
+
+Come and meet me in the sky?
+
+---
+
+
+![Soham De](static/images/Soham_De.jpg)
+
+**Soham De**
+
+Frontend and things around it
+
+---
+
+
+![Aloke M](static/images/alokemajumder.JPG)
+
+**Aloke M**
+
+Mentor @ bong.dev
+
+---
+
+
+![Agnik Bakshi](static/images/Agnik-Bakshi.jpg)
+
+**Agnik Bakshi**
+
+A passionate programmer who loves to delve into AI/ML and Full-stack development
+
+---
+
+
+![Chiraag Banerjee](static/images/chiraagbanerjee.jpg)
+
+**Chiraag Banerjee**
+
+Passionate Python Developer and Analyst
+
+---
+
+
+![Arindrajit Sen](static/images/arindrajitsen.jpg)
+
+**Arindrajit Sen**
+
+An android enthusiast who wants to become a game developer
+
+---
+
+
+![Jagpreet Singh Khurana](static/images/jskhurana.png)
+
+**Jagpreet Singh Khurana**
+
+Engineering Student and a passionate devloper
+
+---
+
+
+![Jyotirmoy Roy](static/images/JyotirmoyRoy.jpeg)
+
+**Jyotirmoy Roy**
+
+An engineer who builds and breaks the code
+
+---
+
+
+![Rahul Baskey](static/images/rahulbaskey.jpg)
+
+**Rahul Baskey**
+
+Passionate Developer and Community Moderator.
+
+---
+
+
+![Christopher Keith Irvine](static/images/mizdrake7.jpg)
+
+**Christopher Keith Irvine**
+
+A 21-year Tech Enthusiast from Kolkata, India, Currently living in Ujjain, India
+
+---
+
+## Happy Hacking! 🚀
